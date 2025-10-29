@@ -1,0 +1,79 @@
+{
+  "dentists": [
+    {
+      "id": 1,
+      "name": "Dr. Sarah Thompson, DDS",
+      "specialty": "General Dentistry",
+      "experience": 12,
+      "clinicName": "Heartland Dental - Milwaukee",
+      "address": {
+        "street": "1234 W Wisconsin Ave",
+        "city": "Milwaukee",
+        "state": "WI",
+        "zip": "53233"
+      },
+      "phone": "(414) 555-1023",
+      "email": "sarah.thompson@heartlanddental.com",
+      "hours": {
+        "monday": "8:00 AM - 5:00 PM",
+        "tuesday": "8:00 AM - 5:00 PM",
+        "wednesday": "8:00 AM - 5:00 PM",
+        "thursday": "8:00 AM - 5:00 PM",
+        "friday": "8:00 AM - 2:00 PM"
+      },
+      "rating": 4.8,
+      "acceptingNewPatients": true,
+      "image": "https://example.com/images/dr-thompson.webp"
+    },
+    {
+      "id": 2,
+      "name": "Dr. Marcus Lee, DMD",
+      "specialty": "Orthodontics",
+      "experience": 8,
+      "clinicName": "Heartland Dental - Brookfield",
+      "address": {
+        "street": "321 N Main St",
+        "city": "Brookfield",
+        "state": "WI",
+        "zip": "53005"
+      },
+      "phone": "(262) 555-8745",
+      "email": "marcus.lee@heartlanddental.com",
+      "hours": {
+        "monday": "9:00 AM - 6:00 PM",
+        "tuesday": "9:00 AM - 6:00 PM",
+        "wednesday": "Closed",
+        "thursday": "9:00 AM - 6:00 PM",
+        "friday": "8:00 AM - 3:00 PM"
+      },
+      "rating": 4.6,
+      "acceptingNewPatients": false,
+      "image": "https://example.com/images/dr-lee.webp"
+    },
+    {
+      "id": 3,
+      "name": "Dr. Emily Nguyen, DDS",
+      "specialty": "Pediatric Dentistry",
+      "experience": 6,
+      "clinicName": "Heartland Dental - Madison East",
+      "address": {
+        "street": "908 E Washington Ave",
+        "city": "Madison",
+        "state": "WI",
+        "zip": "53703"
+      },
+      "phone": "(608) 555-6678",
+      "email": "emily.nguyen@heartlanddental.com",
+      "hours": {
+        "monday": "8:00 AM - 4:00 PM",
+        "tuesday": "8:00 AM - 4:00 PM",
+        "wednesday": "8:00 AM - 4:00 PM",
+        "thursday": "8:00 AM - 4:00 PM",
+        "friday": "Closed"
+      },
+      "rating": 4.9,
+      "acceptingNewPatients": true,
+      "image": "https://example.com/images/dr-nguyen.webp"
+    }
+  ]
+}
